@@ -1,1 +1,1 @@
-A long time ago, in a galaxy far, far away, I changed this file and tried to say hello to my EECS professor.
+A long time ago, in a galaxy far, far away, I changed this file and tried to say hello to my EECS professor. A moment later, my prof said: "well, you need to change this file again to make a branch commit." Fearing of my GPA, I did so.
